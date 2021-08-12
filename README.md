@@ -19,6 +19,7 @@ https://www.eclipse.org/che/)
 
 *Che is Kubernetes-native and places everything the developer needs into containers in Kube pods including dependencies, embedded containerized runtimes, a web IDE, and project code. This makes workspaces distributed, collaborative, and portable to run anywhere Kubernetes runs ... [Read More](https://www.eclipse.org/che/features/)*
 
+hi
 </div>
 
 ![Eclipse Che](https://raw.githubusercontent.com/eclipse/che/assets/screenshoft_che7-quarkus-demo.png)
