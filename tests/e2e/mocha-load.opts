@@ -5,3 +5,5 @@
 --full-trace
 --spec dist/tests/load_test/LoadTest.spec
 --require source-map-support/register
+
+hello world
