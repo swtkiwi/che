@@ -1,5 +1,5 @@
 ### Eclipse Che Server has moved!
-
+test
 If you're looking for the sources of the Eclipse Che Server, it has been relocated here:
 
 https://github.com/eclipse-che/che-server
