@@ -6,3 +6,4 @@
 --spec dist/tests/devfiles/*.spec.js
 --spec dist/tests/e2e/FactoryUrl.spec.js
 --require source-map-support/register
+
